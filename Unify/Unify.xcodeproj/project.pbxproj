@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXFileReference section */
+		FA09853D1FC0EB0A00C28E29 /* uniqify.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = uniqify.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		FA0985361FC0EAF100C28E29 = {
+			isa = PBXGroup;
+			children = (
+				FA09853D1FC0EB0A00C28E29 /* uniqify.c */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		FA0985371FC0EAF100C28E29 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0910;
+			};
+			buildConfigurationList = FA09853A1FC0EAF100C28E29 /* Build configuration list for PBXProject "Unify" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = FA0985361FC0EAF100C28E29;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		FA09853B1FC0EAF100C28E29 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		FA09853C1FC0EAF100C28E29 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FA09853A1FC0EAF100C28E29 /* Build configuration list for PBXProject "Unify" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FA09853B1FC0EAF100C28E29 /* Debug */,
+				FA09853C1FC0EAF100C28E29 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FA0985371FC0EAF100C28E29 /* Project object */;
+}
